@@ -1,0 +1,9 @@
+<resources>
+    <!-- Colors sampled from the Promptexa logo (deep blue -> purple gradient) -->
+    <color name="promptexa_primary">#1E2A5A</color>
+    <color name="promptexa_primary_dark">#12193B</color>
+    <color name="promptexa_accent">#7B2FF7</color>
+    <color name="promptexa_white">#FFFFFF</color>
+    <color name="promptexa_gray_text">#6B7280</color>
+    <color name="promptexa_nav_unselected">#9CA3AF</color>
+</resources>
